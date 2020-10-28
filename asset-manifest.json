@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/whosaheb/whoWeAre/static/css/main.46a02917.chunk.css",
+    "main.js": "/whosaheb/whoWeAre/static/js/main.f75aeb80.chunk.js",
+    "main.js.map": "/whosaheb/whoWeAre/static/js/main.f75aeb80.chunk.js.map",
+    "runtime-main.js": "/whosaheb/whoWeAre/static/js/runtime-main.37914aba.js",
+    "runtime-main.js.map": "/whosaheb/whoWeAre/static/js/runtime-main.37914aba.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/whosaheb/whoWeAre/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.4f40146c.chunk.js": "/whosaheb/whoWeAre/static/js/2.4f40146c.chunk.js",
+    "static/js/2.4f40146c.chunk.js.map": "/whosaheb/whoWeAre/static/js/2.4f40146c.chunk.js.map",
+    "static/js/3.68e4b9e9.chunk.js": "/whosaheb/whoWeAre/static/js/3.68e4b9e9.chunk.js",
+    "static/js/3.68e4b9e9.chunk.js.map": "/whosaheb/whoWeAre/static/js/3.68e4b9e9.chunk.js.map",
+    "index.html": "/whosaheb/whoWeAre/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/whosaheb/whoWeAre/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.46a02917.chunk.css.map": "/whosaheb/whoWeAre/static/css/main.46a02917.chunk.css.map",
+    "static/js/2.4f40146c.chunk.js.LICENSE.txt": "/whosaheb/whoWeAre/static/js/2.4f40146c.chunk.js.LICENSE.txt",
+    "static/media/stylesheet.css": "/whosaheb/whoWeAre/static/media/homewallpaper.94047e73.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37914aba.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.4f40146c.chunk.js",
+    "static/css/main.46a02917.chunk.css",
+    "static/js/main.f75aeb80.chunk.js"
+  ]
+}
